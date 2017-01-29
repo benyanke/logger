@@ -1,5 +1,5 @@
 # Logger - a PHP logging class
-_This logging class which makes logging in PHP web apps easy_
+_This logging class makes logging in PHP web apps easy_
 
 
 ## LOGGING LEVELS:
