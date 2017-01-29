@@ -1,18 +1,7 @@
-<?php
-/*
- *  ____              __     __         _
- * |  _ \             \ \   / /        | |
- * | |_) | ___ _ __    \ \_/ /_ _ _ __ | | _____
- * |  _ < / _ \ '_ \    \   / _` | '_ \| |/ / _ \
- * | |_) |  __/ | | |    | | (_| | | | |   <  __/
- * |____/ \___|_| |_|    |_|\__,_|_| |_|_|\_\___|
- *
- */
-
 /*
  * Logger - a PHP logging class
  *
- * This is a logging class which makes logging in PHP web apps easy
+ * This is a logging class makes logging in PHP web apps easy
  *
  * Originally Developed in PHP version 7
  *
@@ -22,7 +11,7 @@
  * @copyright  Ben Yanke
  * @license    https://creativecommons.org/licenses/by-sa/4.0/ CC Attribution-ShareAlike 4.0 International
  * @link       https://github.com/benyanke/logger
- * @since      Version 0.1
+ * @since      Version 0.1.0
  */
 
 /*
